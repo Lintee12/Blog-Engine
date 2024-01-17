@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "awUqRuSOrE4JmrRJxVAn0u0PQea/SsIYy+FdvIAOvqJLDqkZVIANq2cEECsH5Tg9wKLU3db59VLRr+IzTjNAvw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lorne\\RiderProjects\\Blog Engine\\Blog Engine\\Blog Engine.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lorne\\.nuget\\packages\\markdig\\0.34.0\\markdig.0.34.0.nupkg.sha512",
+    "C:\\Users\\Lorne\\.nuget\\packages\\ookii.dialogs.wpf\\5.0.1\\ookii.dialogs.wpf.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

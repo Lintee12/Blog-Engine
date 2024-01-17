@@ -1,0 +1,25 @@
+C:\Users\Lorne\RiderProjects\Blog Engine\Blog Engine\bin\Debug\net7.0-windows\Blog Engine.exe
+C:\Users\Lorne\RiderProjects\Blog Engine\Blog Engine\bin\Debug\net7.0-windows\Blog Engine.deps.json
+C:\Users\Lorne\RiderProjects\Blog Engine\Blog Engine\bin\Debug\net7.0-windows\Blog Engine.runtimeconfig.json
+C:\Users\Lorne\RiderProjects\Blog Engine\Blog Engine\bin\Debug\net7.0-windows\Blog Engine.dll
+C:\Users\Lorne\RiderProjects\Blog Engine\Blog Engine\bin\Debug\net7.0-windows\Blog Engine.pdb
+C:\Users\Lorne\RiderProjects\Blog Engine\Blog Engine\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Lorne\RiderProjects\Blog Engine\Blog Engine\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Lorne\RiderProjects\Blog Engine\Blog Engine\obj\Debug\net7.0-windows\Blog Engine_MarkupCompile.cache
+C:\Users\Lorne\RiderProjects\Blog Engine\Blog Engine\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Lorne\RiderProjects\Blog Engine\Blog Engine\obj\Debug\net7.0-windows\Blog Engine.g.resources
+C:\Users\Lorne\RiderProjects\Blog Engine\Blog Engine\obj\Debug\net7.0-windows\Blog Engine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lorne\RiderProjects\Blog Engine\Blog Engine\obj\Debug\net7.0-windows\Blog Engine.AssemblyInfoInputs.cache
+C:\Users\Lorne\RiderProjects\Blog Engine\Blog Engine\obj\Debug\net7.0-windows\Blog Engine.AssemblyInfo.cs
+C:\Users\Lorne\RiderProjects\Blog Engine\Blog Engine\obj\Debug\net7.0-windows\Blog Engine.csproj.CoreCompileInputs.cache
+C:\Users\Lorne\RiderProjects\Blog Engine\Blog Engine\obj\Debug\net7.0-windows\Blog Engine.dll
+C:\Users\Lorne\RiderProjects\Blog Engine\Blog Engine\obj\Debug\net7.0-windows\refint\Blog Engine.dll
+C:\Users\Lorne\RiderProjects\Blog Engine\Blog Engine\obj\Debug\net7.0-windows\Blog Engine.pdb
+C:\Users\Lorne\RiderProjects\Blog Engine\Blog Engine\obj\Debug\net7.0-windows\Blog Engine.genruntimeconfig.cache
+C:\Users\Lorne\RiderProjects\Blog Engine\Blog Engine\obj\Debug\net7.0-windows\ref\Blog Engine.dll
+C:\Users\Lorne\RiderProjects\Blog Engine\Blog Engine\obj\Debug\net7.0-windows\Error.g.cs
+C:\Users\Lorne\RiderProjects\Blog Engine\Blog Engine\obj\Debug\net7.0-windows\Error.baml
+C:\Users\Lorne\RiderProjects\Blog Engine\Blog Engine\bin\Debug\net7.0-windows\Markdig.dll
+C:\Users\Lorne\RiderProjects\Blog Engine\Blog Engine\obj\Debug\net7.0-windows\Blog Engine.csproj.AssemblyReference.cache
+C:\Users\Lorne\RiderProjects\Blog Engine\Blog Engine\obj\Debug\net7.0-windows\Blog Engine.csproj.CopyComplete
+C:\Users\Lorne\RiderProjects\Blog Engine\Blog Engine\bin\Debug\net7.0-windows\Ookii.Dialogs.Wpf.dll

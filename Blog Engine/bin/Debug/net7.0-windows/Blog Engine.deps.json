@@ -1,0 +1,57 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Blog Engine/1.0.0": {
+        "dependencies": {
+          "Markdig": "0.34.0",
+          "Ookii.Dialogs.Wpf": "5.0.1"
+        },
+        "runtime": {
+          "Blog Engine.dll": {}
+        }
+      },
+      "Markdig/0.34.0": {
+        "runtime": {
+          "lib/net6.0/Markdig.dll": {
+            "assemblyVersion": "0.34.0.0",
+            "fileVersion": "0.34.0.0"
+          }
+        }
+      },
+      "Ookii.Dialogs.Wpf/5.0.1": {
+        "runtime": {
+          "lib/net6.0-windows7.0/Ookii.Dialogs.Wpf.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.1.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Blog Engine/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Markdig/0.34.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kUS8Y/oW2Cshwq3kv08Lz5hpMjt9MuAaDIGxv86d0RtEUUe4xKKXxdZYS7bV0ZXRfeAAOfjYIrt7zybcIOYvmg==",
+      "path": "markdig/0.34.0",
+      "hashPath": "markdig.0.34.0.nupkg.sha512"
+    },
+    "Ookii.Dialogs.Wpf/5.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-iZNnZwqTpK0cfR0vkotncP1c025/PHlIdzc7iEKBYwhVv1V0zXp9/RT/O0kMhsmlwXqRxxbE4pdhfinbJXtjPg==",
+      "path": "ookii.dialogs.wpf/5.0.1",
+      "hashPath": "ookii.dialogs.wpf.5.0.1.nupkg.sha512"
+    }
+  }
+}
