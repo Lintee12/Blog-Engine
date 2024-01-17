@@ -122,8 +122,27 @@ namespace Blog_Engine
             Console.Out.WriteLine("Post description: " + _postDescription);
             Console.Out.WriteLine("Post file: " + _postFile);
             Console.Out.WriteLine("Post Output: " + _postOutput);
+                
+            var finalHtml = $@"
+            <!DOCTYPE html>
+            <html lang=""en"">
+            <head>
+                <meta charset=""UTF-8"">
+                <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
+                <title>{_postTitle}</title>
+                <meta name=""description"" content=""{_postDescription}""/>
+                <meta name=""author"" content=""{_postAuthor}"" />
+                <link rel=""stylesheet"" href=""bootstrap.min.css"">
+            </head>
+            <body>
+            <main style=""font-size: 1.2rem; padding: 10px;"">
+            {htmlContent}
+            </main>
+            </body>
+            </html>
+            ";
             
-            File.WriteAllText(_postOutput + "/" + _postTitle + ".html", htmlContent);
+            File.WriteAllText(_postOutput + "/" + _postTitle + ".html", finalHtml);
         }
     }
 }
